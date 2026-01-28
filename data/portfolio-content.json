@@ -1,0 +1,212 @@
+{
+  "profile": {
+    "name": "Romedan Abdelhakim",
+    "tagline": "MD + Developer",
+    "profileImage": "myprofile",
+    "email": "romioalhakim@gmail.com",
+    "phone": "+251-986252588",
+    "location": {
+      "city": "Addis Ababa",
+      "country": "Ethiopia",
+      "full": "Addis Ababa, Ethiopia",
+      "description": "Professional Medical Practice & Tech Studio"
+    },
+    "socials": {
+      "github": "https://github.com/romedan",
+      "linkedin": "https://linkedin.com/in/romedan",
+      "email": "mailto:romioalhakim@gmail.com"
+    },
+    "resumeUrl": "/resume.pdf"
+  },
+  "hero": {
+  "badge": "Building Modern Web Experiences",
+  "headline": "Crafting",
+  "headlineAccent": "Scalable Web Apps.",
+  "subtext": "I'm Romedan Abdelhakim, a Full Stack Web Developer who builds high-performance, user-focused applications—shaped by real-world problem-solving experience from clinical practice.",
+  "ctaProjects": "View My Work",
+  "ctaContact": "Let's Work Together",
+  "verifiedBadge": "Verified",
+  "verifiedTitles": {
+    "dev": "Full Stack Developer",
+    "md": "Medical Doctor"
+  },
+  "experience": {
+    "dev": {
+      "years": "1+",
+      "labelLine1": "Years",
+      "labelLine2": "Web Development"
+    },
+    "md": {
+      "years": "4+",
+      "labelLine1": "Years",
+      "labelLine2": "Clinical Practice"
+    }
+  }
+},
+
+  "about": {
+  "sectionLabel": "About Me",
+  "headline": "Full Stack",
+  "headlineAccent": "Web Developer.",
+  "paragraphs": [
+    "I’m a Full Stack Web Developer focused on building fast, scalable, and user-centered applications using modern JavaScript frameworks and cloud-ready architectures. I enjoy turning complex problems into clean, maintainable, and performant solutions.",
+    "My core strength lies in designing and developing end-to-end web applications—from responsive front-end interfaces to robust back-end APIs and databases. I work comfortably with modern stacks, version control, authentication systems, and deployment workflows.",
+    "With a background in medicine, I bring an uncommon level of precision, structure, and responsibility to software development. This perspective enhances my problem-solving skills, attention to detail, and ability to build systems that users can trust."
+  ],
+  "cvButton": "Download CV / Resume",
+  "globalCollaborations": "Global Collaborations",
+  "skillCards": [
+    {
+      "title": "Frontend Development",
+      "description": "Building responsive, interactive, and accessible user interfaces.",
+      "skills": ["React", "Next.js", "Tailwind CSS", "Framer Motion"]
+    },
+    {
+      "title": "Backend Development",
+      "description": "Designing secure and scalable server-side applications.",
+      "skills": ["Node.js", "Express", "REST APIs", "JWT Authentication"]
+    },
+    {
+      "title": "Full Stack Architecture",
+      "description": "End-to-end application design and integration.",
+      "skills": ["MongoDB / MySQL", "API Design", "State Management"]
+    },
+    {
+      "title": "Professional Edge",
+      "description": "Strong analytical thinking and reliability from clinical training.",
+      "skills": ["Problem Solving", "System Thinking", "High Attention to Detail"]
+    }
+  ]
+},
+"services": {
+  "sectionLabel": "What I Do",
+  "headline": "Building",
+  "headlineAccent": "Digital Products.",
+  "subtext": "I design and develop modern, scalable web applications with a strong focus on performance, usability, and clean architecture.",
+  "items": [
+    {
+      "title": "Full Stack Web Development",
+      "description": "End-to-end development of modern web applications using React, Node.js, REST APIs, and scalable backend architectures."
+    },
+    {
+      "title": "Frontend Engineering",
+      "description": "Building responsive, interactive, and accessible user interfaces with modern frameworks and animation libraries."
+    },
+    {
+      "title": "Backend & API Development",
+      "description": "Designing secure, maintainable backend services, authentication systems, and data-driven APIs."
+    },
+    {
+      "title": "UI/UX Implementation",
+      "description": "Translating product requirements and design systems into intuitive, user-centered digital experiences."
+    },
+    {
+      "title": "Performance & Optimization",
+      "description": "Improving application speed, scalability, and reliability through code optimization and best practices."
+    },
+    {
+      "title": "Technical Consulting",
+      "description": "Helping teams plan architecture, choose the right tech stack, and deliver reliable digital products efficiently."
+    }
+  ]
+},
+
+  "projects": {
+  "sectionLabel": "Portfolio",
+  "headline": "Showcasing",
+  "headlineAccent": "High-Performance Apps.",
+  "subtext": "A curated selection of modern web applications demonstrating scalable architecture, interactive UI, and cutting-edge development practices.",
+  "seeAllCta": "View All Projects",
+  "techTag": "WebDev",
+  "items": [
+    {
+      "title": "Amazon Clone",
+      "description": "A high-performance e-commerce platform...",
+      "tech": ["React", "Firebase", "Stripe API", "Context API"],
+      "image": "amazon",
+      "live": "https://github.com/rom4321/Amazon-clone-2025.git",
+      "github": "https://github.com/rom4321/Amazon-clone-2025.git"
+    },
+    {
+      "title": "Netflix Clone",
+      "description": "A cinematic streaming experience...",
+      "tech": ["React", "TMDB API", "Axios", "SASS"],
+      "image": "netflix",
+      "live": "https://github.com/rom4321/netflix-clone-1.git",
+      "github": "https://github.com/rom4321/netflix-clone-1.git"
+    },
+    {
+      "title": "Evangadi Forum",
+      "description": "A full-stack community discussion platform...",
+      "tech": ["Node.js", "Express", "MySQL", "React", "JWT"],
+      "image": "evangadi",
+      "live": "https://github.com/rom4321/Evangadi-forum-2025.git",
+      "github": "https://github.com/rom4321/Evangadi-forum-2025.git"
+    },
+    {
+      "title": "Apple Web Clone",
+      "description": "An ultra-premium, interactive landing page...",
+      "tech": ["React", "GSAP", "Tailwind CSS", "Framer Motion"],
+      "image": "apple",
+      "live": "https://github.com/Alebachew424/appleClonee.git",
+      "github": "https://github.com/Alebachew424/appleClonee.git"
+    }
+  ]
+},
+
+
+  "contact": {
+    "sectionLabel": "Inquiries",
+    "headline": "Secure a",
+    "headlineAccent": "Consultation.",
+    "subtext": "Available for high-impact health-tech engineering, clinical consultation, and full-stack development contracts.",
+    "info": [
+      { "title": "HQ Location", "content": "Addis Ababa, Ethiopia" },
+      { "title": "Primary Email", "content": "romioalhakim@gmail.com" },
+      { "title": "Direct Line", "content": "+251-986252588" }
+    ],
+    "priorityText": "Currently prioritizing projects in Precision Medicine and Patient Workflow Automation.",
+    "formPlaceholders": {
+      "name": "Dr. John Doe",
+      "email": "john@hospital.com",
+      "message": "How can my clinical-technical background help your team?"
+    },
+    "submitButton": "Dispatch Message",
+    "submittingButton": "Processing...",
+    "successMessage": "Message encrypted & sent. I will respond within 24 hours."
+  },
+  "footer": {
+    "brandName": "Romedan",
+    "bio": "A clinical practitioner turned software engineer. I'm on a mission to improve patient outcomes through high-performance software and user-centric clinical design.",
+    "navLinks": ["Home", "About", "Projects", "Contact"],
+    "contactSectionTitle": "Contact Information",
+    "copyright": "Romedan Abdelhakim. Licensed Medical Professional & Full Stack Engineer.",
+    "tagline": "Built with ❤ & Professional Precision"
+  },
+  "nav": {
+    "links": [
+      { "name": "Home", "path": "/" },
+      { "name": "About", "path": "/about" },
+      { "name": "Projects", "path": "/projects" },
+      { "name": "Contact", "path": "/contact" }
+    ],
+    "resumeLabel": "Resume",
+    "resumeDownloadLabel": "Download Resume"
+  },
+  "meta": {
+    "siteTitle": "Romedan Abdelhakim | MD & Developer",
+    "home": {
+      "title": "Romedan Abdelhakim | MD & Full Stack Developer",
+      "description": "Official portfolio of Romedan Abdelhakim, a Medical Doctor and Full Stack Developer specializing in healthcare digital transformation."
+    },
+    "about": {
+      "title": "Professional Profile | Romedan Abdelhakim"
+    },
+    "projects": {
+      "title": "Portfolio | Romedan Abdelhakim"
+    },
+    "contact": {
+      "title": "Consultation | Romedan Abdelhakim"
+    }
+  }
+}
