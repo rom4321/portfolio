@@ -78,6 +78,22 @@ const Projects = ({ isPartial = false }) => {
                 {project.description}
               </p>
 
+              <div className="flex items-center gap-3 mb-6">
+                {project.live && (
+                  <a href={project.live} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-4 py-2 bg-primary-600 text-white rounded-xl font-semibold hover:opacity-90 transition">
+                    <ExternalLink size={16} />
+                    <span>Live</span>
+                  </a>
+                )}
+
+                {project.github && (
+                  <a href={project.github} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-4 py-2 bg-slate-100 text-slate-900 rounded-xl font-semibold hover:bg-slate-200 transition border border-slate-200">
+                    <Github size={16} />
+                    <span>Source</span>
+                  </a>
+                )}
+              </div>
+
               <div className="flex flex-wrap gap-2 mt-auto">
                 {project.tech.map(t => (
                   <span key={t} className="px-4 py-1.5 bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-400 text-[11px] font-bold rounded-xl uppercase tracking-tighter">
